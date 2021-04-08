@@ -1,0 +1,23 @@
+{
+    "name": "gamma",
+    "displayName": "Gamma",
+    "description": "A special theme showcasing shades of teal. Cools your eyes",
+    "publisher": "VenkataramanaSuryanarayanan",
+    "icon": "./Group 1.png",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gamma",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Gamma-color-theme.json"
+            }
+        ]
+    }
+}
